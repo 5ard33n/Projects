@@ -10,6 +10,9 @@ h1{
     height: 50%;
     width: 50%;
     margin: 100px auto 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 #red{
     background-color: red;
@@ -42,3 +45,4 @@ h2{
     align-items: center;
     justify-content: center;
 }
+
