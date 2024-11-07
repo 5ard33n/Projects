@@ -1,0 +1,44 @@
+body{
+    background-color: #212121;
+    color: #212121;
+}
+.calc{
+    background-color: #D1D8C5;
+    width: 50%;
+    margin-top: 100px;
+    margin-right: 300px;
+    margin-left: 300px;
+    border-radius: 20px;
+}
+.heading{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} 
+h1{
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+}
+.formz{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+   
+}
+.HEIGHT{
+    border-radius: 10%;
+}
+.WEIGHT{
+    border-radius: 10%;
+}
+button{
+    height: 25px;
+    border: none;
+    margin-right: 10px;
+}
+#reset{
+        height: 25px;
+        border: none;
+        width: 80px;
+}
